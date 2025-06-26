@@ -1,6 +1,7 @@
 import 'package:dice_bear/dice_bear.dart';
 import 'package:flutter/material.dart';
 
+// ignore: must_be_immutable
 class MessageTile extends StatelessWidget {
   MessageTile({super.key});
   Avatar _avatar =
